@@ -1,1 +1,4 @@
 # PRODIGY_WD_04
+
+This personal portfolio website is designed to showcase my skills, projects, and professional background in a simple and visually appealing way. The website features a clean and responsive layout, making it accessible on all devices, from desktops to mobile phones. It includes sections like About Me, where visitors can learn about my background and interests; Skills, which highlights my technical expertise; and Projects, where I briefly describe some of the key projects I've worked on. The Contact section provides easy access to my email and LinkedIn profile, allowing potential employers, collaborators, and clients to connect with me directly. This portfolio is a reflection of my work as a web developer and software engineer, presenting a professional online presence that is both informative and engaging.
+
